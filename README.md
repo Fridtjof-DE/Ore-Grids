@@ -1,4 +1,4 @@
-[![API Badge](https://img.shields.io/badge/MC%20version-v1.7%20--%20v1.19-blue?style=flat-square)]()
+[![API Badge](https://img.shields.io/badge/MC%20version-v1.7%20--%20v1.20-blue?style=flat-square)]()
 [![Maintenance Badge](https://img.shields.io/maintenance/yes/2022?style=flat-square)]()
 [![Issue Badge](https://img.shields.io/github/issues/Fridtjof-DE/Ore-Grids?style=flat-square)](https://github.com/Fridtjof-DE/Ore-Grids/issues)
 [![Discord Online Badge](https://img.shields.io/discord/961799414647750717?style=flat-square)](https://discord.gg/fT6VJurHCT)
